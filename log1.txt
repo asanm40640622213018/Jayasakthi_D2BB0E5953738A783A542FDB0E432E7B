@@ -1,0 +1,413 @@
+2023-06-09 13:23:34 pm com.miui.msa.global [Tid:464] Don't send message before initialization succeeded! 
+2023-06-09 13:23:34 pm com.miui.msa.global [Tid:464] locale.default.country = GB 
+2023-06-09 13:23:35 pm com.miui.msa.global [Tid:464] Don't send message before initialization succeeded! 
+2023-06-09 13:24:16 pm com.miui.msa.global [Tid:833] Don't send message before initialization succeeded! 
+2023-06-09 13:24:16 pm com.miui.msa.global [Tid:833] locale.default.country = GB 
+2023-06-09 13:24:16 pm com.miui.msa.global [Tid:833] Don't send message before initialization succeeded! 
+2023-06-09 14:20:34 pm com.miui.msa.global [Tid:938] Don't send message before initialization succeeded! 
+2023-06-09 14:20:34 pm com.miui.msa.global [Tid:938] locale.default.country = GB 
+2023-06-09 14:20:34 pm com.miui.msa.global [Tid:938] Don't send message before initialization succeeded! 
+2023-06-27 23:47:23 pm com.miui.msa.global [Tid:287] Don't send message before initialization succeeded! 
+2023-06-27 23:47:23 pm com.miui.msa.global [Tid:287] locale.default.country = GB 
+2023-06-27 23:47:23 pm com.miui.msa.global [Tid:287] Don't send message before initialization succeeded! 
+2023-06-27 23:48:08 pm com.miui.msa.global [Tid:758] Don't send message before initialization succeeded! 
+2023-06-27 23:48:08 pm com.miui.msa.global [Tid:758] locale.default.country = GB 
+2023-06-27 23:48:08 pm com.miui.msa.global [Tid:758] Don't send message before initialization succeeded! 
+2023-06-27 23:49:37 pm com.miui.msa.global [Tid:838] Don't send message before initialization succeeded! 
+2023-06-27 23:49:37 pm com.miui.msa.global [Tid:838] locale.default.country = GB 
+2023-06-27 23:49:37 pm com.miui.msa.global [Tid:838] Don't send message before initialization succeeded! 
+2023-07-06 17:53:14 pm com.miui.msa.global [Tid:714] Don't send message before initialization succeeded! 
+2023-07-06 17:53:14 pm com.miui.msa.global [Tid:714] get region from system, region = IN 
+2023-07-06 17:53:14 pm com.miui.msa.global [Tid:714] Don't send message before initialization succeeded! 
+2023-07-17 23:30:35 pm com.miui.msa.global [Tid:906] Don't send message before initialization succeeded! 
+2023-07-17 23:30:35 pm com.miui.msa.global [Tid:906] get region from system, region = IN 
+2023-07-17 23:30:35 pm com.miui.msa.global [Tid:906] Don't send message before initialization succeeded! 
+2023-07-20 19:58:55 pm com.miui.msa.global [Tid:2033] Don't send message before initialization succeeded! 
+2023-07-20 19:58:55 pm com.miui.msa.global [Tid:2033] get region from system, region = IN 
+2023-07-20 19:58:55 pm com.miui.msa.global [Tid:2033] Don't send message before initialization succeeded! 
+2023-07-20 20:01:36 pm com.miui.msa.global [Tid:2114] Don't send message before initialization succeeded! 
+2023-07-20 20:01:36 pm com.miui.msa.global [Tid:2114] get region from system, region = IN 
+2023-07-20 20:01:36 pm com.miui.msa.global [Tid:2114] Don't send message before initialization succeeded! 
+2023-07-21 17:04:57 pm com.miui.msa.global [Tid:2598] Don't send message before initialization succeeded! 
+2023-07-21 17:04:57 pm com.miui.msa.global [Tid:2598] get region from system, region = IN 
+2023-07-21 17:04:57 pm com.miui.msa.global [Tid:2598] Don't send message before initialization succeeded! 
+2023-07-24 21:26:13 pm com.miui.msa.global [Tid:765] Don't send message before initialization succeeded! 
+2023-07-24 21:26:13 pm com.miui.msa.global [Tid:765] get region from system, region = IN 
+2023-07-24 21:26:13 pm com.miui.msa.global [Tid:765] Don't send message before initialization succeeded! 
+2023-07-26 14:08:20 pm com.miui.msa.global [Tid:1544] Don't send message before initialization succeeded! 
+2023-07-26 14:08:20 pm com.miui.msa.global [Tid:1544] get region from system, region = IN 
+2023-07-26 14:08:20 pm com.miui.msa.global [Tid:1544] Don't send message before initialization succeeded! 
+2023-08-01 12:13:12 pm com.miui.msa.global [Tid:3601] Don't send message before initialization succeeded! 
+2023-08-01 12:13:12 pm com.miui.msa.global [Tid:3601] get region from system, region = IN 
+2023-08-01 12:13:12 pm com.miui.msa.global [Tid:3601] Don't send message before initialization succeeded! 
+2023-08-01 12:13:35 pm com.miui.msa.global [Tid:3634] Don't send message before initialization succeeded! 
+2023-08-01 12:13:35 pm com.miui.msa.global [Tid:3634] get region from system, region = IN 
+2023-08-01 12:13:35 pm com.miui.msa.global [Tid:3634] Don't send message before initialization succeeded! 
+2023-08-05 16:23:01 pm com.miui.msa.global [Tid:5725] Don't send message before initialization succeeded! 
+2023-08-05 16:23:01 pm com.miui.msa.global [Tid:5725] get region from system, region = IN 
+2023-08-05 16:23:01 pm com.miui.msa.global [Tid:5725] Don't send message before initialization succeeded! 
+2023-08-05 16:26:55 pm com.miui.msa.global [Tid:5918] Don't send message before initialization succeeded! 
+2023-08-05 16:26:55 pm com.miui.msa.global [Tid:5918] get region from system, region = IN 
+2023-08-05 16:26:55 pm com.miui.msa.global [Tid:5918] Don't send message before initialization succeeded! 
+2023-08-07 10:30:05 am com.miui.msa.global [Tid:6079] Don't send message before initialization succeeded! 
+2023-08-07 10:30:20 am com.miui.msa.global [Tid:6081] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-07 10:30:20 am com.miui.msa.global [Tid:6081] receive a error message. code = 70000002, msg= no account. 
+2023-08-11 23:10:05 pm com.miui.msa.global [Tid:10832] Don't send message before initialization succeeded! 
+2023-08-11 23:10:05 pm com.miui.msa.global [Tid:10832] get region from system, region = IN 
+2023-08-11 23:10:05 pm com.miui.msa.global [Tid:10832] Don't send message before initialization succeeded! 
+2023-08-11 23:18:13 pm com.miui.msa.global [Tid:11063] Don't send message before initialization succeeded! 
+2023-08-11 23:18:13 pm com.miui.msa.global [Tid:11063] get region from system, region = IN 
+2023-08-11 23:18:13 pm com.miui.msa.global [Tid:11063] Don't send message before initialization succeeded! 
+2023-08-11 23:27:06 pm com.miui.msa.global [Tid:11060] Don't send message before initialization succeeded! 
+2023-08-11 23:27:07 pm com.miui.msa.global [Tid:11103] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-11 23:27:07 pm com.miui.msa.global [Tid:11103] processing a message, action=Registration 
+2023-08-11 23:27:07 pm com.miui.msa.global [Tid:11103] drop the message before initialization. 
+2023-08-12 06:34:22 am com.miui.msa.global [Tid:794] Don't send message before initialization succeeded! 
+2023-08-12 06:34:22 am com.miui.msa.global [Tid:794] get region from system, region = IN 
+2023-08-12 06:34:22 am com.miui.msa.global [Tid:794] Don't send message before initialization succeeded! 
+2023-08-12 07:00:01 am com.miui.msa.global [Tid:838] Don't send message before initialization succeeded! 
+2023-08-12 07:00:04 am com.miui.msa.global [Tid:838] get region from system, region = IN 
+2023-08-12 07:00:04 am com.miui.msa.global [Tid:838] Don't send message before initialization succeeded! 
+2023-08-12 11:12:21 am com.miui.msa.global [Tid:908] Don't send message before initialization succeeded! 
+2023-08-12 11:12:22 am com.miui.msa.global [Tid:914] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-12 11:12:22 am com.miui.msa.global [Tid:914] processing a message, action=Registration 
+2023-08-12 11:12:22 am com.miui.msa.global [Tid:914] drop the message before initialization. 
+2023-08-12 18:30:37 pm com.miui.msa.global [Tid:1726] Don't send message before initialization succeeded! 
+2023-08-12 18:30:37 pm com.miui.msa.global [Tid:1726] get region from system, region = IN 
+2023-08-12 18:30:37 pm com.miui.msa.global [Tid:1726] Don't send message before initialization succeeded! 
+2023-08-12 19:24:02 pm com.miui.msa.global [Tid:1722] Don't send message before initialization succeeded! 
+2023-08-12 19:24:03 pm com.miui.msa.global [Tid:1772] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-12 19:24:03 pm com.miui.msa.global [Tid:1772] processing a message, action=Registration 
+2023-08-12 19:24:03 pm com.miui.msa.global [Tid:1772] drop the message before initialization. 
+2023-08-12 23:50:38 pm com.miui.msa.global [Tid:1991] Don't send message before initialization succeeded! 
+2023-08-12 23:50:38 pm com.miui.msa.global [Tid:1991] get region from system, region = IN 
+2023-08-12 23:50:38 pm com.miui.msa.global [Tid:1991] Don't send message before initialization succeeded! 
+2023-08-14 00:05:51 am com.miui.msa.global [Tid:2337] Don't send message before initialization succeeded! 
+2023-08-14 00:05:51 am com.miui.msa.global [Tid:2337] get region from system, region = IN 
+2023-08-14 00:05:51 am com.miui.msa.global [Tid:2337] Don't send message before initialization succeeded! 
+2023-08-14 10:16:20 am com.miui.msa.global [Tid:2610] Don't send message before initialization succeeded! 
+2023-08-14 10:16:20 am com.miui.msa.global [Tid:2610] get region from system, region = IN 
+2023-08-14 10:16:20 am com.miui.msa.global [Tid:2610] Don't send message before initialization succeeded! 
+2023-08-14 10:17:43 am com.miui.msa.global [Tid:2717] Don't send message before initialization succeeded! 
+2023-08-14 10:17:43 am com.miui.msa.global [Tid:2717] get region from system, region = IN 
+2023-08-14 10:17:43 am com.miui.msa.global [Tid:2717] Don't send message before initialization succeeded! 
+2023-08-14 10:19:52 am com.miui.msa.global [Tid:2742] Don't send message before initialization succeeded! 
+2023-08-14 10:19:52 am com.miui.msa.global [Tid:2742] get region from system, region = IN 
+2023-08-14 10:19:52 am com.miui.msa.global [Tid:2742] Don't send message before initialization succeeded! 
+2023-08-14 10:20:00 am com.miui.msa.global [Tid:2740] Don't send message before initialization succeeded! 
+2023-08-14 10:20:08 am com.miui.msa.global [Tid:2778] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-14 10:20:08 am com.miui.msa.global [Tid:2778] processing a message, action=Registration 
+2023-08-14 10:20:08 am com.miui.msa.global [Tid:2778] drop the message before initialization. 
+2023-08-14 10:21:38 am com.miui.msa.global [Tid:3104] Don't send message before initialization succeeded! 
+2023-08-14 10:21:38 am com.miui.msa.global [Tid:3104] get region from system, region = IN 
+2023-08-14 10:21:38 am com.miui.msa.global [Tid:3104] Don't send message before initialization succeeded! 
+2023-08-15 00:57:36 am com.miui.msa.global [Tid:3452] Don't send message before initialization succeeded! 
+2023-08-15 00:57:36 am com.miui.msa.global [Tid:3452] get region from system, region = IN 
+2023-08-15 00:57:36 am com.miui.msa.global [Tid:3452] Don't send message before initialization succeeded! 
+2023-08-15 23:31:52 pm com.miui.msa.global [Tid:4219] Don't send message before initialization succeeded! 
+2023-08-15 23:31:52 pm com.miui.msa.global [Tid:4219] get region from system, region = IN 
+2023-08-15 23:31:52 pm com.miui.msa.global [Tid:4219] Don't send message before initialization succeeded! 
+2023-08-17 00:28:36 am com.miui.msa.global [Tid:4612] Don't send message before initialization succeeded! 
+2023-08-17 00:28:36 am com.miui.msa.global [Tid:4612] get region from system, region = IN 
+2023-08-17 00:28:36 am com.miui.msa.global [Tid:4612] Don't send message before initialization succeeded! 
+2023-08-18 00:11:53 am com.miui.msa.global [Tid:5074] Don't send message before initialization succeeded! 
+2023-08-18 00:11:53 am com.miui.msa.global [Tid:5074] get region from system, region = IN 
+2023-08-18 00:11:53 am com.miui.msa.global [Tid:5074] Don't send message before initialization succeeded! 
+2023-08-19 00:00:01 am com.miui.msa.global [Tid:5444] Don't send message before initialization succeeded! 
+2023-08-19 00:00:01 am com.miui.msa.global [Tid:5444] get region from system, region = IN 
+2023-08-19 00:00:01 am com.miui.msa.global [Tid:5444] Don't send message before initialization succeeded! 
+2023-08-20 00:55:26 am com.miui.msa.global [Tid:5780] Don't send message before initialization succeeded! 
+2023-08-20 00:55:26 am com.miui.msa.global [Tid:5780] get region from system, region = IN 
+2023-08-20 00:55:26 am com.miui.msa.global [Tid:5780] Don't send message before initialization succeeded! 
+2023-08-21 00:00:58 am com.miui.msa.global [Tid:6244] Don't send message before initialization succeeded! 
+2023-08-21 00:00:58 am com.miui.msa.global [Tid:6244] get region from system, region = IN 
+2023-08-21 00:00:58 am com.miui.msa.global [Tid:6244] Don't send message before initialization succeeded! 
+2023-08-21 15:59:55 pm com.miui.msa.global [Tid:6241] Don't send message before initialization succeeded! 
+2023-08-21 15:59:57 pm com.miui.msa.global [Tid:6339] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-21 15:59:57 pm com.miui.msa.global [Tid:6339] processing a message, action=Registration 
+2023-08-21 15:59:57 pm com.miui.msa.global [Tid:6339] drop the message before initialization. 
+2023-08-21 16:49:23 pm com.miui.msa.global [Tid:7279] Don't send message before initialization succeeded! 
+2023-08-21 16:49:23 pm com.miui.msa.global [Tid:7279] get region from system, region = IN 
+2023-08-21 16:49:23 pm com.miui.msa.global [Tid:7279] Don't send message before initialization succeeded! 
+2023-08-21 16:49:23 pm com.miui.msa.global [Tid:7279] Don't send message before initialization succeeded! 
+2023-08-21 16:50:07 pm com.miui.msa.global [Tid:7299] Don't send message before initialization succeeded! 
+2023-08-21 16:50:07 pm com.miui.msa.global [Tid:7299] get region from system, region = IN 
+2023-08-21 16:50:07 pm com.miui.msa.global [Tid:7299] Don't send message before initialization succeeded! 
+2023-08-21 16:50:07 pm com.miui.msa.global [Tid:7299] Don't send message before initialization succeeded! 
+2023-08-21 16:50:29 pm com.miui.msa.global [Tid:7323] Don't send message before initialization succeeded! 
+2023-08-21 16:50:29 pm com.miui.msa.global [Tid:7323] get region from system, region = IN 
+2023-08-21 16:50:29 pm com.miui.msa.global [Tid:7323] Don't send message before initialization succeeded! 
+2023-08-21 16:50:29 pm com.miui.msa.global [Tid:7323] Don't send message before initialization succeeded! 
+2023-08-21 16:52:04 pm com.miui.msa.global [Tid:7357] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-21 16:52:04 pm com.miui.msa.global [Tid:7357] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-08-22 00:13:12 am com.miui.msa.global [Tid:8405] Don't send message before initialization succeeded! 
+2023-08-22 00:13:12 am com.miui.msa.global [Tid:8405] get region from system, region = IN 
+2023-08-22 00:13:12 am com.miui.msa.global [Tid:8405] Don't send message before initialization succeeded! 
+2023-08-23 00:02:30 am com.miui.msa.global [Tid:8774] Don't send message before initialization succeeded! 
+2023-08-23 00:02:30 am com.miui.msa.global [Tid:8774] get region from system, region = IN 
+2023-08-23 00:02:30 am com.miui.msa.global [Tid:8774] Don't send message before initialization succeeded! 
+2023-08-24 00:14:44 am com.miui.msa.global [Tid:9260] Don't send message before initialization succeeded! 
+2023-08-24 00:14:44 am com.miui.msa.global [Tid:9260] get region from system, region = IN 
+2023-08-24 00:14:44 am com.miui.msa.global [Tid:9260] Don't send message before initialization succeeded! 
+2023-08-24 23:38:34 pm com.miui.msa.global [Tid:9837] Don't send message before initialization succeeded! 
+2023-08-24 23:38:34 pm com.miui.msa.global [Tid:9837] get region from system, region = IN 
+2023-08-24 23:38:34 pm com.miui.msa.global [Tid:9837] Don't send message before initialization succeeded! 
+2023-08-25 23:38:32 pm com.miui.msa.global [Tid:10367] Don't send message before initialization succeeded! 
+2023-08-25 23:38:32 pm com.miui.msa.global [Tid:10367] get region from system, region = IN 
+2023-08-25 23:38:32 pm com.miui.msa.global [Tid:10367] Don't send message before initialization succeeded! 
+2023-08-27 00:12:30 am com.miui.msa.global [Tid:10959] Don't send message before initialization succeeded! 
+2023-08-27 00:12:30 am com.miui.msa.global [Tid:10959] get region from system, region = IN 
+2023-08-27 00:12:30 am com.miui.msa.global [Tid:10959] Don't send message before initialization succeeded! 
+2023-08-28 00:30:51 am com.miui.msa.global [Tid:11321] Don't send message before initialization succeeded! 
+2023-08-28 00:30:51 am com.miui.msa.global [Tid:11321] get region from system, region = IN 
+2023-08-28 00:30:52 am com.miui.msa.global [Tid:11321] Don't send message before initialization succeeded! 
+2023-08-28 19:00:46 pm com.miui.msa.global [Tid:12242] Don't send message before initialization succeeded! 
+2023-08-28 19:00:46 pm com.miui.msa.global [Tid:12242] get region from system, region = IN 
+2023-08-28 19:00:46 pm com.miui.msa.global [Tid:12242] Don't send message before initialization succeeded! 
+2023-08-28 22:31:25 pm com.miui.msa.global [Tid:12726] Don't send message before initialization succeeded! 
+2023-08-28 22:31:25 pm com.miui.msa.global [Tid:12726] get region from system, region = IN 
+2023-08-28 22:31:25 pm com.miui.msa.global [Tid:12726] Don't send message before initialization succeeded! 
+2023-08-28 22:31:43 pm com.miui.msa.global [Tid:12777] Don't send message before initialization succeeded! 
+2023-08-28 22:31:43 pm com.miui.msa.global [Tid:12777] get region from system, region = IN 
+2023-08-28 22:31:43 pm com.miui.msa.global [Tid:12777] Don't send message before initialization succeeded! 
+2023-08-28 22:32:22 pm com.miui.msa.global [Tid:12864] Don't send message before initialization succeeded! 
+2023-08-28 22:32:22 pm com.miui.msa.global [Tid:12864] get region from system, region = IN 
+2023-08-28 22:32:22 pm com.miui.msa.global [Tid:12864] Don't send message before initialization succeeded! 
+2023-08-28 22:33:15 pm com.miui.msa.global [Tid:12903] Don't send message before initialization succeeded! 
+2023-08-28 22:33:16 pm com.miui.msa.global [Tid:12903] get region from system, region = IN 
+2023-08-28 22:33:16 pm com.miui.msa.global [Tid:12903] Don't send message before initialization succeeded! 
+2023-08-28 22:36:56 pm com.miui.msa.global [Tid:12900] Don't send message before initialization succeeded! 
+2023-08-28 22:37:04 pm com.miui.msa.global [Tid:12963] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-28 22:37:04 pm com.miui.msa.global [Tid:12963] processing a message, action=Registration 
+2023-08-28 22:37:04 pm com.miui.msa.global [Tid:12963] drop the message before initialization. 
+2023-08-28 23:06:25 pm com.miui.msa.global [Tid:13928] Don't send message before initialization succeeded! 
+2023-08-28 23:06:25 pm com.miui.msa.global [Tid:13928] get region from system, region = IN 
+2023-08-28 23:06:25 pm com.miui.msa.global [Tid:13928] Don't send message before initialization succeeded! 
+2023-08-29 00:03:12 am com.miui.msa.global [Tid:14224] Don't send message before initialization succeeded! 
+2023-08-29 00:03:12 am com.miui.msa.global [Tid:14224] get region from system, region = IN 
+2023-08-29 00:03:12 am com.miui.msa.global [Tid:14224] Don't send message before initialization succeeded! 
+2023-08-29 17:25:23 pm com.miui.msa.global [Tid:14220] Don't send message before initialization succeeded! 
+2023-08-29 17:25:25 pm com.miui.msa.global [Tid:14325] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-29 17:25:25 pm com.miui.msa.global [Tid:14325] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-08-29 17:55:50 pm com.miui.msa.global [Tid:16443] Don't send message before initialization succeeded! 
+2023-08-29 17:55:50 pm com.miui.msa.global [Tid:16443] get region from system, region = IN 
+2023-08-29 17:55:50 pm com.miui.msa.global [Tid:16443] Don't send message before initialization succeeded! 
+2023-08-29 17:55:50 pm com.miui.msa.global [Tid:16443] Don't send message before initialization succeeded! 
+2023-08-29 17:55:51 pm com.miui.msa.global [Tid:16472] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-29 17:55:51 pm com.miui.msa.global [Tid:16472] processing a message, action=Registration 
+2023-08-29 18:23:54 pm com.miui.msa.global [Tid:16472] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-29 18:23:54 pm com.miui.msa.global [Tid:16472] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-08-29 20:59:37 pm com.miui.msa.global [Tid:18547] Don't send message before initialization succeeded! 
+2023-08-29 20:59:37 pm com.miui.msa.global [Tid:18547] get region from system, region = IN 
+2023-08-29 20:59:37 pm com.miui.msa.global [Tid:18547] Don't send message before initialization succeeded! 
+2023-08-29 21:11:52 pm com.miui.msa.global [Tid:18851] Don't send message before initialization succeeded! 
+2023-08-29 21:11:52 pm com.miui.msa.global [Tid:18851] get region from system, region = IN 
+2023-08-29 21:11:52 pm com.miui.msa.global [Tid:18851] Don't send message before initialization succeeded! 
+2023-08-29 21:12:17 pm com.miui.msa.global [Tid:18849] Don't send message before initialization succeeded! 
+2023-08-29 21:12:20 pm com.miui.msa.global [Tid:18882] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-29 21:12:20 pm com.miui.msa.global [Tid:18882] processing a message, action=Registration 
+2023-08-29 21:12:20 pm com.miui.msa.global [Tid:18882] drop the message before initialization. 
+2023-08-29 22:05:51 pm com.miui.msa.global [Tid:19861] Don't send message before initialization succeeded! 
+2023-08-29 22:05:51 pm com.miui.msa.global [Tid:19861] get region from system, region = IN 
+2023-08-29 22:05:51 pm com.miui.msa.global [Tid:19861] Don't send message before initialization succeeded! 
+2023-08-29 22:05:51 pm com.miui.msa.global [Tid:19861] Don't send message before initialization succeeded! 
+2023-08-29 22:06:31 pm com.miui.msa.global [Tid:19890] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-29 22:06:31 pm com.miui.msa.global [Tid:19890] processing a message, action=Registration 
+2023-08-29 22:06:31 pm com.miui.msa.global [Tid:19890] drop the message before initialization. 
+2023-08-29 22:41:40 pm com.miui.msa.global [Tid:19890] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-29 22:41:40 pm com.miui.msa.global [Tid:19890] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-08-29 23:25:56 pm com.miui.msa.global [Tid:20056] Don't send message before initialization succeeded! 
+2023-08-29 23:25:56 pm com.miui.msa.global [Tid:20056] get region from system, region = IN 
+2023-08-29 23:25:56 pm com.miui.msa.global [Tid:20056] Don't send message before initialization succeeded! 
+2023-08-29 23:25:56 pm com.miui.msa.global [Tid:20056] Don't send message before initialization succeeded! 
+2023-08-29 23:26:19 pm com.miui.msa.global [Tid:20086] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-29 23:26:19 pm com.miui.msa.global [Tid:20086] processing a message, action=Registration 
+2023-08-29 23:26:19 pm com.miui.msa.global [Tid:20086] drop the message before initialization. 
+2023-08-29 23:39:59 pm com.miui.msa.global [Tid:20086] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-29 23:39:59 pm com.miui.msa.global [Tid:20086] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-08-30 09:38:44 am com.miui.msa.global [Tid:21877] Don't send message before initialization succeeded! 
+2023-08-30 09:38:44 am com.miui.msa.global [Tid:21877] get region from system, region = IN 
+2023-08-30 09:38:44 am com.miui.msa.global [Tid:21877] Don't send message before initialization succeeded! 
+2023-08-30 09:38:44 am com.miui.msa.global [Tid:21877] Don't send message before initialization succeeded! 
+2023-08-30 09:39:27 am com.miui.msa.global [Tid:21913] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-30 09:39:27 am com.miui.msa.global [Tid:21913] processing a message, action=Registration 
+2023-08-30 09:39:27 am com.miui.msa.global [Tid:21913] drop the message before initialization. 
+2023-08-30 09:41:52 am com.miui.msa.global [Tid:21913] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-30 09:41:53 am com.miui.msa.global [Tid:21913] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-08-30 12:58:39 pm com.miui.msa.global [Tid:22441] Don't send message before initialization succeeded! 
+2023-08-30 12:58:39 pm com.miui.msa.global [Tid:22441] get region from system, region = IN 
+2023-08-30 12:58:39 pm com.miui.msa.global [Tid:22441] Don't send message before initialization succeeded! 
+2023-08-30 12:58:39 pm com.miui.msa.global [Tid:22441] Don't send message before initialization succeeded! 
+2023-08-30 13:01:41 pm com.miui.msa.global [Tid:22476] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-30 13:01:41 pm com.miui.msa.global [Tid:22476] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-08-30 13:27:02 pm com.miui.msa.global [Tid:22576] Don't send message before initialization succeeded! 
+2023-08-30 13:27:02 pm com.miui.msa.global [Tid:22576] get region from system, region = IN 
+2023-08-30 13:27:02 pm com.miui.msa.global [Tid:22576] Don't send message before initialization succeeded! 
+2023-08-30 13:27:02 pm com.miui.msa.global [Tid:22576] Don't send message before initialization succeeded! 
+2023-08-30 13:31:40 pm com.miui.msa.global [Tid:22609] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-30 13:31:40 pm com.miui.msa.global [Tid:22609] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-08-30 23:14:19 pm com.miui.msa.global [Tid:24653] Don't send message before initialization succeeded! 
+2023-08-30 23:14:19 pm com.miui.msa.global [Tid:24653] get region from system, region = IN 
+2023-08-30 23:14:19 pm com.miui.msa.global [Tid:24653] Don't send message before initialization succeeded! 
+2023-08-30 23:57:29 pm com.miui.msa.global [Tid:24746] Don't send message before initialization succeeded! 
+2023-08-30 23:57:29 pm com.miui.msa.global [Tid:24746] get region from system, region = IN 
+2023-08-30 23:58:40 pm com.miui.msa.global [Tid:24746] Don't send message before initialization succeeded! 
+2023-08-31 06:14:44 am com.miui.msa.global [Tid:24995] Don't send message before initialization succeeded! 
+2023-08-31 06:14:44 am com.miui.msa.global [Tid:24995] get region from system, region = IN 
+2023-08-31 06:14:44 am com.miui.msa.global [Tid:24995] Don't send message before initialization succeeded! 
+2023-08-31 06:38:02 am com.miui.msa.global [Tid:25001] Don't send message before initialization succeeded! 
+2023-08-31 06:38:25 am com.miui.msa.global [Tid:25045] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-08-31 06:38:25 am com.miui.msa.global [Tid:25045] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-08-31 10:22:12 am com.miui.msa.global [Tid:26233] Don't send message before initialization succeeded! 
+2023-08-31 10:22:12 am com.miui.msa.global [Tid:26233] get region from system, region = IN 
+2023-08-31 10:22:12 am com.miui.msa.global [Tid:26233] Don't send message before initialization succeeded! 
+2023-08-31 15:43:53 pm com.miui.msa.global [Tid:26229] Don't send message before initialization succeeded! 
+2023-08-31 15:43:57 pm com.miui.msa.global [Tid:26293] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-08-31 15:43:57 pm com.miui.msa.global [Tid:26293] processing a message, action=Registration 
+2023-08-31 15:43:57 pm com.miui.msa.global [Tid:26293] drop the message before initialization. 
+2023-08-31 22:16:54 pm com.miui.msa.global [Tid:27850] Don't send message before initialization succeeded! 
+2023-08-31 22:16:54 pm com.miui.msa.global [Tid:27850] get region from system, region = IN 
+2023-08-31 22:16:54 pm com.miui.msa.global [Tid:27850] Don't send message before initialization succeeded! 
+2023-08-31 23:45:52 pm com.miui.msa.global [Tid:27991] Don't send message before initialization succeeded! 
+2023-08-31 23:45:52 pm com.miui.msa.global [Tid:27991] get region from system, region = IN 
+2023-08-31 23:45:53 pm com.miui.msa.global [Tid:27991] Don't send message before initialization succeeded! 
+2023-09-01 06:25:21 am com.miui.msa.global [Tid:27987] Don't send message before initialization succeeded! 
+2023-09-01 06:25:44 am com.miui.msa.global [Tid:28060] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-09-01 06:25:44 am com.miui.msa.global [Tid:28060] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-09-01 08:17:34 am com.miui.msa.global [Tid:28827] Don't send message before initialization succeeded! 
+2023-09-01 08:17:34 am com.miui.msa.global [Tid:28827] get region from system, region = IN 
+2023-09-01 08:17:34 am com.miui.msa.global [Tid:28827] Don't send message before initialization succeeded! 
+2023-09-01 08:21:58 am com.miui.msa.global [Tid:28823] Don't send message before initialization succeeded! 
+2023-09-01 08:21:59 am com.miui.msa.global [Tid:28856] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-01 08:21:59 am com.miui.msa.global [Tid:28856] processing a message, action=Registration 
+2023-09-01 08:21:59 am com.miui.msa.global [Tid:28856] drop the message before initialization. 
+2023-09-01 09:24:38 am com.miui.msa.global [Tid:29313] Don't send message before initialization succeeded! 
+2023-09-01 09:24:38 am com.miui.msa.global [Tid:29313] get region from system, region = IN 
+2023-09-01 09:24:38 am com.miui.msa.global [Tid:29313] Don't send message before initialization succeeded! 
+2023-09-01 09:24:38 am com.miui.msa.global [Tid:29313] Don't send message before initialization succeeded! 
+2023-09-01 09:24:38 am com.miui.msa.global [Tid:29334] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-01 09:24:38 am com.miui.msa.global [Tid:29334] processing a message, action=Registration 
+2023-09-01 09:45:38 am com.miui.msa.global [Tid:29334] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-09-01 09:45:38 am com.miui.msa.global [Tid:29334] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-09-01 18:03:33 pm com.miui.msa.global [Tid:30371] Don't send message before initialization succeeded! 
+2023-09-01 18:03:33 pm com.miui.msa.global [Tid:30371] get region from system, region = IN 
+2023-09-01 18:03:33 pm com.miui.msa.global [Tid:30371] Don't send message before initialization succeeded! 
+2023-09-01 18:12:13 pm com.miui.msa.global [Tid:30368] Don't send message before initialization succeeded! 
+2023-09-01 18:12:14 pm com.miui.msa.global [Tid:30408] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-01 18:12:14 pm com.miui.msa.global [Tid:30408] processing a message, action=Registration 
+2023-09-01 18:12:14 pm com.miui.msa.global [Tid:30408] drop the message before initialization. 
+2023-09-01 21:40:36 pm com.miui.msa.global [Tid:30937] Don't send message before initialization succeeded! 
+2023-09-01 21:40:36 pm com.miui.msa.global [Tid:30937] get region from system, region = IN 
+2023-09-01 21:40:36 pm com.miui.msa.global [Tid:30937] Don't send message before initialization succeeded! 
+2023-09-01 21:40:36 pm com.miui.msa.global [Tid:30937] Don't send message before initialization succeeded! 
+2023-09-01 21:41:40 pm com.miui.msa.global [Tid:30971] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-09-01 21:41:40 pm com.miui.msa.global [Tid:30971] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-09-01 23:25:24 pm com.miui.msa.global [Tid:31247] Don't send message before initialization succeeded! 
+2023-09-01 23:25:24 pm com.miui.msa.global [Tid:31247] get region from system, region = IN 
+2023-09-01 23:25:24 pm com.miui.msa.global [Tid:31247] Don't send message before initialization succeeded! 
+2023-09-01 23:25:24 pm com.miui.msa.global [Tid:31247] Don't send message before initialization succeeded! 
+2023-09-01 23:25:26 pm com.miui.msa.global [Tid:31277] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-01 23:25:26 pm com.miui.msa.global [Tid:31277] processing a message, action=Registration 
+2023-09-01 23:41:33 pm com.miui.msa.global [Tid:31277] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-09-01 23:41:33 pm com.miui.msa.global [Tid:31277] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-09-02 07:45:18 am com.miui.msa.global [Tid:32112] Don't send message before initialization succeeded! 
+2023-09-02 07:45:18 am com.miui.msa.global [Tid:32112] get region from system, region = IN 
+2023-09-02 07:45:18 am com.miui.msa.global [Tid:32112] Don't send message before initialization succeeded! 
+2023-09-02 07:45:19 am com.miui.msa.global [Tid:32109] Don't send message before initialization succeeded! 
+2023-09-02 07:46:13 am com.miui.msa.global [Tid:32154] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-02 07:46:13 am com.miui.msa.global [Tid:32154] processing a message, action=Registration 
+2023-09-02 07:46:13 am com.miui.msa.global [Tid:32154] drop the message before initialization. 
+2023-09-02 11:40:39 am com.miui.msa.global [Tid:33327] Don't send message before initialization succeeded! 
+2023-09-02 11:40:39 am com.miui.msa.global [Tid:33327] get region from system, region = IN 
+2023-09-02 11:40:39 am com.miui.msa.global [Tid:33327] Don't send message before initialization succeeded! 
+2023-09-02 12:31:44 pm com.miui.msa.global [Tid:33324] Don't send message before initialization succeeded! 
+2023-09-02 12:52:17 pm com.miui.msa.global [Tid:33612] Don't send message before initialization succeeded! 
+2023-09-02 12:52:17 pm com.miui.msa.global [Tid:33612] get region from system, region = IN 
+2023-09-02 12:52:17 pm com.miui.msa.global [Tid:33612] Don't send message before initialization succeeded! 
+2023-09-02 12:52:17 pm com.miui.msa.global [Tid:33612] Don't send message before initialization succeeded! 
+2023-09-02 12:52:17 pm com.miui.msa.global [Tid:33631] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-02 12:52:17 pm com.miui.msa.global [Tid:33631] processing a message, action=Registration 
+2023-09-02 17:44:06 pm com.miui.msa.global [Tid:34703] Don't send message before initialization succeeded! 
+2023-09-02 17:44:06 pm com.miui.msa.global [Tid:34703] get region from system, region = IN 
+2023-09-02 17:44:06 pm com.miui.msa.global [Tid:34703] Don't send message before initialization succeeded! 
+2023-09-02 17:44:06 pm com.miui.msa.global [Tid:34703] Don't send message before initialization succeeded! 
+2023-09-02 17:44:58 pm com.miui.msa.global [Tid:34735] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-02 17:44:58 pm com.miui.msa.global [Tid:34735] processing a message, action=Registration 
+2023-09-02 17:44:58 pm com.miui.msa.global [Tid:34735] drop the message before initialization. 
+2023-09-02 20:16:26 pm com.miui.msa.global [Tid:35736] Don't send message before initialization succeeded! 
+2023-09-02 20:16:26 pm com.miui.msa.global [Tid:35736] get region from system, region = IN 
+2023-09-02 20:16:26 pm com.miui.msa.global [Tid:35736] Don't send message before initialization succeeded! 
+2023-09-02 20:49:06 pm com.miui.msa.global [Tid:35734] Don't send message before initialization succeeded! 
+2023-09-02 20:49:37 pm com.miui.msa.global [Tid:35783] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-02 20:49:37 pm com.miui.msa.global [Tid:35783] processing a message, action=Registration 
+2023-09-02 20:49:37 pm com.miui.msa.global [Tid:35783] drop the message before initialization. 
+2023-09-02 21:27:47 pm com.miui.msa.global [Tid:36634] Don't send message before initialization succeeded! 
+2023-09-02 21:27:47 pm com.miui.msa.global [Tid:36634] get region from system, region = IN 
+2023-09-02 21:27:47 pm com.miui.msa.global [Tid:36634] Don't send message before initialization succeeded! 
+2023-09-02 21:27:47 pm com.miui.msa.global [Tid:36634] Don't send message before initialization succeeded! 
+2023-09-02 21:27:49 pm com.miui.msa.global [Tid:36662] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-02 21:27:49 pm com.miui.msa.global [Tid:36662] processing a message, action=Registration 
+2023-09-02 22:08:21 pm com.miui.msa.global [Tid:37182] Don't send message before initialization succeeded! 
+2023-09-02 22:08:21 pm com.miui.msa.global [Tid:37182] get region from system, region = IN 
+2023-09-02 22:08:21 pm com.miui.msa.global [Tid:37182] Don't send message before initialization succeeded! 
+2023-09-02 22:08:21 pm com.miui.msa.global [Tid:37182] Don't send message before initialization succeeded! 
+2023-09-02 22:08:21 pm com.miui.msa.global [Tid:37211] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-02 22:08:21 pm com.miui.msa.global [Tid:37211] processing a message, action=Registration 
+2023-09-02 23:24:14 pm com.miui.msa.global [Tid:37773] Don't send message before initialization succeeded! 
+2023-09-02 23:24:14 pm com.miui.msa.global [Tid:37773] get region from system, region = IN 
+2023-09-02 23:24:14 pm com.miui.msa.global [Tid:37773] Don't send message before initialization succeeded! 
+2023-09-03 04:10:42 am com.miui.msa.global [Tid:37769] Don't send message before initialization succeeded! 
+2023-09-03 04:10:49 am com.miui.msa.global [Tid:37827] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-03 04:10:49 am com.miui.msa.global [Tid:37827] processing a message, action=Registration 
+2023-09-03 04:10:49 am com.miui.msa.global [Tid:37827] drop the message before initialization. 
+2023-09-03 05:29:14 am com.miui.msa.global [Tid:38528] Don't send message before initialization succeeded! 
+2023-09-03 05:29:14 am com.miui.msa.global [Tid:38528] get region from system, region = IN 
+2023-09-03 05:29:14 am com.miui.msa.global [Tid:38528] Don't send message before initialization succeeded! 
+2023-09-03 05:29:14 am com.miui.msa.global [Tid:38528] Don't send message before initialization succeeded! 
+2023-09-03 05:41:09 am com.miui.msa.global [Tid:38562] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-03 05:41:09 am com.miui.msa.global [Tid:38562] processing a message, action=Registration 
+2023-09-03 05:41:10 am com.miui.msa.global [Tid:38562] drop the message before initialization. 
+2023-09-03 06:11:43 am com.miui.msa.global [Tid:38658] Don't send message before initialization succeeded! 
+2023-09-03 06:11:43 am com.miui.msa.global [Tid:38658] get region from system, region = IN 
+2023-09-03 06:11:43 am com.miui.msa.global [Tid:38658] Don't send message before initialization succeeded! 
+2023-09-03 06:11:43 am com.miui.msa.global [Tid:38658] Don't send message before initialization succeeded! 
+2023-09-03 06:11:44 am com.miui.msa.global [Tid:38691] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-03 06:11:44 am com.miui.msa.global [Tid:38691] processing a message, action=Registration 
+2023-09-03 08:17:54 am com.miui.msa.global [Tid:39587] Don't send message before initialization succeeded! 
+2023-09-03 08:17:54 am com.miui.msa.global [Tid:39587] get region from system, region = IN 
+2023-09-03 08:17:55 am com.miui.msa.global [Tid:39587] Don't send message before initialization succeeded! 
+2023-09-03 08:17:55 am com.miui.msa.global [Tid:39587] Don't send message before initialization succeeded! 
+2023-09-03 08:17:55 am com.miui.msa.global [Tid:39601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-03 08:17:55 am com.miui.msa.global [Tid:39601] processing a message, action=Registration 
+2023-09-03 09:41:13 am com.miui.msa.global [Tid:39936] Don't send message before initialization succeeded! 
+2023-09-03 09:41:13 am com.miui.msa.global [Tid:39936] get region from system, region = IN 
+2023-09-03 09:41:13 am com.miui.msa.global [Tid:39936] Don't send message before initialization succeeded! 
+2023-09-03 09:41:13 am com.miui.msa.global [Tid:39936] Don't send message before initialization succeeded! 
+2023-09-03 10:23:09 am com.miui.msa.global [Tid:40168] Don't send message before initialization succeeded! 
+2023-09-03 10:23:09 am com.miui.msa.global [Tid:40168] get region from system, region = IN 
+2023-09-03 10:23:09 am com.miui.msa.global [Tid:40168] Don't send message before initialization succeeded! 
+2023-09-03 10:23:09 am com.miui.msa.global [Tid:40168] Don't send message before initialization succeeded! 
+2023-09-03 10:23:09 am com.miui.msa.global [Tid:40187] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-03 10:23:09 am com.miui.msa.global [Tid:40187] processing a message, action=Registration 
+2023-09-03 13:48:17 pm com.miui.msa.global [Tid:41042] Don't send message before initialization succeeded! 
+2023-09-03 13:48:17 pm com.miui.msa.global [Tid:41042] get region from system, region = IN 
+2023-09-03 13:48:17 pm com.miui.msa.global [Tid:41042] Don't send message before initialization succeeded! 
+2023-09-03 13:56:43 pm com.miui.msa.global [Tid:41039] Don't send message before initialization succeeded! 
+2023-09-03 14:00:00 pm com.miui.msa.global [Tid:41074] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-09-03 14:00:00 pm com.miui.msa.global [Tid:41074] receive a error message. code = 70000001, msg=  the push is not connected. 
+2023-09-03 15:11:25 pm com.miui.msa.global [Tid:41553] Don't send message before initialization succeeded! 
+2023-09-03 15:11:25 pm com.miui.msa.global [Tid:41553] get region from system, region = IN 
+2023-09-03 15:11:25 pm com.miui.msa.global [Tid:41553] Don't send message before initialization succeeded! 
+2023-09-03 15:11:25 pm com.miui.msa.global [Tid:41553] Don't send message before initialization succeeded! 
+2023-09-03 16:00:51 pm com.miui.msa.global [Tid:41693] Don't send message before initialization succeeded! 
+2023-09-03 16:00:51 pm com.miui.msa.global [Tid:41693] get region from system, region = IN 
+2023-09-03 16:00:51 pm com.miui.msa.global [Tid:41693] Don't send message before initialization succeeded! 
+2023-09-03 16:00:51 pm com.miui.msa.global [Tid:41693] Don't send message before initialization succeeded! 
+2023-09-03 16:00:52 pm com.miui.msa.global [Tid:41709] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2023-09-03 16:00:52 pm com.miui.msa.global [Tid:41709] processing a message, action=Registration 
+2023-09-03 19:21:36 pm com.miui.msa.global [Tid:42893] Don't send message before initialization succeeded! 
+2023-09-03 19:21:36 pm com.miui.msa.global [Tid:42893] get region from system, region = IN 
+2023-09-03 19:21:36 pm com.miui.msa.global [Tid:42893] Don't send message before initialization succeeded! 
+2023-09-03 19:21:36 pm com.miui.msa.global [Tid:42893] Don't send message before initialization succeeded! 
+2023-09-03 19:21:40 pm com.miui.msa.global [Tid:42921] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2023-09-03 19:21:40 pm com.miui.msa.global [Tid:42921] receive a error message. code = 70000001, msg=  the push is not connected. 
